@@ -3,6 +3,7 @@
 #import "metropolis.typ"
 #import "dewdrop.typ"
 #import "university.typ"
+#import "university-tau.typ"
 #import "aqua.typ"
 #import "stargazer.typ"
 #import "article.typ"
